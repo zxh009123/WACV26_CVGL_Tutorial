@@ -3,8 +3,8 @@ title: Home
 layout: page
 ---
 
-<!-- ### WACV 2025 Tutorial: -->
-<!-- ### Cross-View Geo-Localization: Current Challenges and Future Frontiers with GenAI -->
+<!-- ### WACV 2026 Tutorial: -->
+<!-- ### Beyond Vision: Multimodal Perspectives for Cross-View Geo-Localization -->
 
 {% include figure.html img="teaser.png" alt="intro image here" width="100%" %}
 
@@ -12,9 +12,9 @@ layout: page
 **Time : TBD** \
 **Location : TBD** -->
 
-<div style="text-align:center;"><b>Date : February 28, 2025</b></div>
-<div style="text-align:center;"><b>Time : 8:30 to 12:00 (MST)</b></div>
-<div style="text-align:center;"><b>Location : AZ Ballroom Salon 3</b></div>
+<div style="text-align:center;"><b>Date : TBD </b></div>
+<div style="text-align:center;"><b>Time : TBD </b></div>
+<div style="text-align:center;"><b>Location : TBD </b></div>
 
 <br>
 
@@ -22,7 +22,7 @@ layout: page
 <!-- #### Tutorial Description -->
 <h4 style="text-align:center;">Tutorial Description</h4> 
 <div style="text-align: justify">
-The availability of geospatial data from diverse sources and perspectives has expanded rapidly in recent years, unlocking opportunities across various fields. Cross-view geo-localization—matching ground images with aerial or satellite views to pinpoint geographical locations—has become a critical area of research due to its diverse applications in autonomous navigation, urban planning, and augmented reality. Despite substantial advancements, this field faces significant challenges, including handling extreme viewpoint variations, reliability, and integration of multimodal information across diverse perspectives. Recent developments in Generative AI (GenAI), including Large Vision-Language Models (LVLMs), have introduced more generalized approaches to incorporate multimodality data. These advancements not only enhance performance but also redefine how multimodality is utilized in real-world settings. As the field evolves rapidly, this tutorial offers an ideal opportunity for researchers—especially those new to the domain—to grasp the latest methodologies, explore cutting-edge datasets, and understand emerging trends that will shape the future of cross-view geo-localization.
+The increasing availability of geospatial data from heterogeneous modalities, including aerial and satellite imagery, ground-level views, and textual descriptions, has made cross-view geo-localization a critical research area with applications in autonomous navigation, urban monitoring, and augmented reality. Despite progress, challenges remain in handling extreme viewpoint variations, scaling across diverse domains, and integrating multimodal information. Recent developments in multimodal learning and Generative AI, such as Large Multimodal Models (LMMs), have introduced new paradigms for geo-localization. LMMs enable more generalized cross-view matching by incorporating language as an additional modality, supporting tasks such as text-based geo-localization, scene description, and multimodal reasoning. These capabilities not only improve performance but also expand the scope of cross-view geo-localization to broader multimodal applications. This tutorial will provide a comprehensive overview of these developments, highlighting the latest methodologies, datasets, and open research directions that are shaping the future of cross-view geo-localization.
 </div>
 
 <br>
@@ -39,8 +39,7 @@ The availability of geospatial data from diverse sources and perspectives has ex
 <!-- #### Speakers -->
 <h4 style="text-align:center;">Speakers</h4> 
 
-* [Rakesh “Teddy” Kumar](https://www.sri.com/people/rakesh-kumar/), SRI International, Menlo Park, CA, USA 
-* [Zhedong Zheng](https://www.zdzheng.xyz/), University of Macau, Macau, China 
+TBD
 
 <br>
 

@@ -39,7 +39,8 @@ The increasing availability of geospatial data from heterogeneous modalities, in
 <!-- #### Speakers -->
 <h4 style="text-align:center;">Speakers</h4> 
 
-TBD
+* [Weijia Li](https://liweijia.github.io/), Sun Yat-Sen University, Guangzhou, China
+* [Zimin Xia](https://ziminxia.github.io/), École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
 
 <br>
 

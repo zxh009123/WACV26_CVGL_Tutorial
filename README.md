@@ -1,1 +1,1 @@
-This is the repo for WACV 2025 tutorial, Cross-View Geo-Localization: Current Challenges and Future Frontiers with GenAI.
+This is the repo for WACV 2026 tutorial, Beyond Vision: Multimodal Perspectives for Cross-View Geo-Localization.

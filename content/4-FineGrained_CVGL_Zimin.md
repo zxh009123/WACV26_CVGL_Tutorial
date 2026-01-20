@@ -1,7 +1,7 @@
 ---
 title: "From Retrieval to Precision: Fine-Grained Cross-View Geo-Localization"
 # nav: true
-time: 11:00 - 11:40
+time: 10:20 - 11:00
 presenter: Zimin Xia
 # youtubeid: ey7Llt7THW0
 # youtubeid: tGYjYZ4Wlq4

@@ -12,8 +12,8 @@ layout: page
 **Time : TBD** \
 **Location : TBD** -->
 
-<div style="text-align:center;"><b>Date : TBD </b></div>
-<div style="text-align:center;"><b>Time : TBD </b></div>
+<div style="text-align:center;"><b>Date : March 7th, 2026 </b></div>
+<div style="text-align:center;"><b>Time : 8:30 AM to 12:00 PM </b></div>
 <div style="text-align:center;"><b>Location : TBD </b></div>
 
 <br>

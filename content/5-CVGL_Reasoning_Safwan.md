@@ -1,7 +1,7 @@
 ---
 title: "Cross-View Association, Reasoning, and Explainability "
 # nav: true
-time: 10:20 - 11:00
+time: 11:00 - 11:40
 presenter: Safwan Wshah
 # youtubeid: ey7Llt7THW0
 # youtubeid: Sc6j4Vtu1Kc

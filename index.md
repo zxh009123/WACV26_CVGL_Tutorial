@@ -30,16 +30,16 @@ The increasing availability of geospatial data from heterogeneous modalities, in
 <!-- #### Organizers -->
 <h4 style="text-align:center;">Organizers</h4>
 
-* [Chen Chen](https://www.crcv.ucf.edu/chenchen/), University of Central Florida, Orlando, FL, USA 
-* [Safwan Wshah](https://www.wshahaigroup.com/), University of Vermont, Burlington, VT, USA 
-* [Xiaohan Zhang](https://zxh009123.github.io/), University of Vermont, Burlington, VT, USA 
+* [Chen Chen](https://www.crcv.ucf.edu/chenchen/), University of Central Florida, Orlando, Florida, USA 
+* [Safwan Wshah](https://www.wshahaigroup.com/), University of Vermont, Burlington, Vermont, USA 
+* [Xiaohan Zhang](https://zxh009123.github.io/), University of Vermont, Burlington, Vermont, USA 
 
 <br>
 
 <!-- #### Speakers -->
 <h4 style="text-align:center;">Speakers</h4> 
 
-* [Weijia Li](https://liweijia.github.io/), Sun Yat-Sen University, Guangzhou, China
+* [Weijia Li](https://liweijia.github.io/), Shenzhen International Graduate School, Tsinghua University, China
 * [Zimin Xia](https://ziminxia.github.io/), École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
 
 <br>

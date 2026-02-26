@@ -13,8 +13,8 @@ layout: page
 **Location : TBD** -->
 
 <div style="text-align:center;"><b>Date : March 7th, 2026 </b></div>
-<div style="text-align:center;"><b>Time : 8:30 AM to 12:00 PM </b></div>
-<div style="text-align:center;"><b>Location : TBD </b></div>
+<div style="text-align:center;"><b>Time : 8:30 AM to 12:00 PM US Mountain Time </b></div>
+<div style="text-align:center;"><b>Location : AZ Ballroom Salon 9 </b></div>
 
 <br>
 
@@ -45,7 +45,7 @@ The increasing availability of geospatial data from heterogeneous modalities, in
 <br>
 
 <!-- #### Schedule -->
-<h4 style="text-align:center;">Schedule</h4> 
+<h4 style="text-align:center;">Schedule (US Mountain Time)</h4> 
 {% include toc.html %}
 
 <br>

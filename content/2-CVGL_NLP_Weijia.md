@@ -1,5 +1,5 @@
 ---
-title: "Cross-View Geo-localization with Natural Language Descriptions"
+title: "Cross-View Geo-Localization: From Image Retrieval to Multi-Modal Reasoning"
 # nav: true
 time: 9:20 - 10:00
 presenter: Weijia Li

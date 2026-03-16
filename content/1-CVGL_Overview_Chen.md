@@ -5,7 +5,7 @@ time: 8:40 - 9:20
 presenter: Chen Chen
 # youtubeid: ey7Llt7THW0
 # youtubeid: eG_UgzWRFqM
-# slides: https://drive.google.com/file/d/1F1QPqMxhhKTimOY3byKLGr2CFMFWKt42/view?usp=sharing
+slides: https://drive.google.com/file/d/17PBUIBJE4n2OiCodVHH78PY51f2aCv-H/view?usp=sharing
 # recording: https://www.youtube.com/watch?v=eG_UgzWRFqM&t](https://www.youtube.com/watch?v=eG_UgzWRFqM
 ---
 

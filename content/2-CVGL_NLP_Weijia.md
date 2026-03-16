@@ -5,7 +5,7 @@ time: 9:20 - 10:00
 presenter: Weijia Li
 # youtubeid: ey7Llt7THW0
 # youtubeid: -td3FnihTt8
-# slides: https://drive.google.com/file/d/14nQzXmcFFthTqIS_9vAp0STW_X3csnG7/view?usp=sharing
+slides: https://drive.google.com/file/d/11BryVTLv7bGCO2aBWAeKes9W7yRsQe2q/view?usp=sharing
 # recording: https://www.youtube.com/watch?v=-td3FnihTt8
 ---
 

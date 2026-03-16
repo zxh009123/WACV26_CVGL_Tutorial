@@ -5,7 +5,7 @@ time: 10:20 - 11:00
 presenter: Zimin Xia
 # youtubeid: ey7Llt7THW0
 # youtubeid: tGYjYZ4Wlq4
-# slides: https://drive.google.com/file/d/1BsjM2CKAUGM0raw91GNwvFJklUd-KdHk/view?usp=sharing
+slides: https://drive.google.com/file/d/1QeBK7LnyWD3sjg6TO9IPZLe4CQJM1Jjw/view?usp=sharing
 # recording: https://www.youtube.com/watch?v=tGYjYZ4Wlq4
 ---
 
